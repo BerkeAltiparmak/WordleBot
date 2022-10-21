@@ -5,6 +5,7 @@ A Wordle Bot that finds the most optimal words to try next by following these st
 (Before game)
 1) Looks at the dictionary of the words
 2) Chooses only those that are valid in the context of the Wordle
+
 (During game)
 3) Considers the information we have on what the mystery word's letters can be
 4) Chooses a couple of letters (<=5) to try to include in the next word to try
